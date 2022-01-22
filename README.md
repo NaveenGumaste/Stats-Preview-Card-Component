@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://t.co/5Jo2vAITlQ)
-- Live Site URL: [Add live site URL here](https://monks-stats-card.netlify.app/)
+- Solution URL: [Solution](https://t.co/5Jo2vAITlQ)
+- Live Site URL: [Stats Card](https://monks-stats-card.netlify.app/)
 
 
 ### Built with
